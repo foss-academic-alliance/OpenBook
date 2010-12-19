@@ -18,7 +18,7 @@ OpenBook
  * Σουίτα γραφείου (OpenOffice.org & LibreOffice)
  * Editors (vim, αναφορά στα nano, gedit, kedit)
  * Browsing (Mozilla Firefox)
- * Μαθηματικά εργαλεία (Octave, GNU Plot) (άλλα;;;)
+ * Μαθηματικά εργαλεία (Octave, Scilab) (άλλα;;;)
  * Compiling από source
 
 Μέρος Β
