@@ -99,14 +99,12 @@ About C
 [[Pascal]]
 Pacal
 ~~~~~
-
-About Pascal
+include::pascal.asciidoc[]
 
 [[Java]]
 Java
 ~~~~
-
-About Java
+include::java.asciidoc[]
 
 BlueJ
 ^^^^^
