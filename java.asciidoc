@@ -4,11 +4,11 @@
 Μεταγλώτιση και Εκτέλεση (compilers and execution)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Για να τρέξουμε προγράμματα γραμμένα σε Java χρειαζόμαστε το Java Runtime 
-Enviroment (JRE). http://www.java.com/en/download/manual.jsp[link]
+Για να τρέξουμε προγράμματα γραμμένα σε Java χρειαζόμαστε το http://www.java.com/en/download/manual.jsp[Java Runtime 
+Enviroment (JRE)].
 
 Για να μεταγλωττίσουμε προγράμματα γραμμένα σε Java
-χρειάζόμαστε το Java Development Kit (JDK). http://www.oracle.com/technetwork/java/javase/downloads/index.html[link]
+χρειάζόμαστε το http://www.oracle.com/technetwork/java/javase/downloads/index.html[Java Development Kit (JDK)].
 
 Και για τα 2 παραπάνω μπορούμε να χρησιμοποιήσουμε το http://openjdk.java.net/[OpenJDK]
 που διατίθεται υπό http://openjdk.java.net/legal/gplv2+ce.html[GPLv2 with Classpath Exception].
