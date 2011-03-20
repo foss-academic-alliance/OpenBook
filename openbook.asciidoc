@@ -7,16 +7,16 @@ version 1,2010-2011
 Εισαγωγή
 --------
 
-//TODO: Να γίνουν διορθώσεις σε τυχόν λάθη/ελλείψεις/παραλείψεις.
+// TODO: Να γίνουν διορθώσεις σε τυχόν λάθη/ελλείψεις/παραλείψεις
 Project OpenBook
 ~~~~~~~~~~~~~~~~
-include::Intro-about.asciidoc[]
+include::Intro-About.asciidoc[]
 
 Ελεύθερο Λογισμικό και Linux
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::Intro-freeSoftwareAndLinux.asciidoc[]
 
-//Nicer internal linking
+// Nicer internal linking
 [id="Κοινότητες"]
 Κοινότητες
 ----------
@@ -69,7 +69,8 @@ Java
 include::PartB-java.asciidoc[]
 
 BlueJ
-^^^^^
+~~~~~
+bla bla
 
 Μαθήματα
 --------
