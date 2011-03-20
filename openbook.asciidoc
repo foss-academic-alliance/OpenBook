@@ -27,7 +27,7 @@ include::Intro-communities.asciidoc[]
 
 Διανομές
 ~~~~~~~~
-blabla
+include::PartA-Distributions.asciidoc[]
 
 Σουΐτα γραφείου
 ~~~~~~~~~~~~~~~

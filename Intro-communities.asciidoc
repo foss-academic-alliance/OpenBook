@@ -1,4 +1,4 @@
-image::images/Intro-communities-tux_student.png["comminities",align="right"] 
+image::images/Intro-communities-tux_student.png["comminities",align="left"] 
 Οι ακαδημαϊκές κοινότητες που συνεργάστηκαν στο παρόν project είναι οι παρακάτω. Στα site τους μπορείτε να αναζητήσετε περισσότερες πληροφορίες καθώς και να λάβετε τεχνική υποστήριξη ή βοήθεια. Προτείνουμε να αναφερθείτε στην κοινότητα της σχολής στην οποία ανήκετε.
 
  * http://foss.ntua.gr/[Κοινότητα Ελεύθερου Λογισμικού ΕΜΠ]
