@@ -29,7 +29,7 @@ include::Intro-communities.asciidoc[]
 ~~~~~~~~
 blabla
 
-Σουϊτα γραφείου
+Σουΐτα γραφείου
 ~~~~~~~~~~~~~~~
 bla
 
