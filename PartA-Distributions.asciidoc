@@ -14,9 +14,10 @@ image::images/PartA-Distributions-StayLibre.png["Stay Libre",align="left"]
 * Fedora (RPM based)
 * openSUSE (RPM based)
 * Debian
-* Mandriva (Debian based)
+* Mandriva (RPM based)
 * Linux Mint (Debian based)
 * PCLinuxOS (Debian based)
+* Archlinux (δικό του σύστημα διαχείρισης πακέτων)
 * Slackware (δικό του σύστημα διαχείρισης πακέτων)
 * Gentoo (δικό του σύστημα διαχείρισης πακέτων)
 * CentOS (RPM based)
