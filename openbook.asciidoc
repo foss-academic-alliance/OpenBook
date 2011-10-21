@@ -21,7 +21,7 @@ include::Intro-freeSoftwareAndLinux.asciidoc[]
 Κοινότητες
 ----------
 include::Intro-communities.asciidoc[]
- 
+
 Μέρος Α - Γενική χρήση linux
 -----------------------------
 
@@ -76,7 +76,7 @@ bla bla
 --------
 
  * blabla... <<Java>> , <<Pascal>>
- 
+
 Μαθήματα2
 ---------
 
