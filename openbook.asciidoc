@@ -68,10 +68,6 @@ Java
 ~~~~
 include::PartB-Java.asciidoc[]
 
-BlueJ
-~~~~~
-bla bla
-
 Μαθήματα
 --------
 
