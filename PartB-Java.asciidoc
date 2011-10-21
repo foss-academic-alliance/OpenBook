@@ -1,5 +1,20 @@
+Βασικά στοιχεία
+^^^^^^^^^^^^^^^
+
 Η http://www.oracle.com/us/technologies/java/index.html[Java] είναι μία
-γλώσσα προγραμματισμού υψηλού επιπέδου.
+αντικειμενοστραφείς γλώσσα προγραμματισμού υψηλού επιπέδου.
+
+Τα βασικά εργαλεία που χρειαζόμαστε για να εργαστούμε με την Java σε μια διανομή
+Linux είναι τα παρακάτω:
+
+ * Επεξεργαστής κειμένου (editor)
+ * Compiler για την μετάφραση του κώδικα σε κώδικα byte (bytecode)
+ * Java Virtual Machine (Εικονική Μηχανή) για την
+   εκτέλεση των προγραμμάτων που δημιουργούμε
+
+Ως επεξεργαστή κειμένου μπορούμε να χρησιμοποιήσουμε οποιονδήποτε προτιμάμε, πχ
+vim, nano, gedit, κλπ. Για κονσόλα επίσης κάνει οποιαδήποτε, πχ gnome-termital,
+kterm, xterm, κλπ.
 
 Μεταγλώτιση και Εκτέλεση (compilers and execution)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -21,6 +36,13 @@ with Classpath Exception].
 Συγγραφή Προγραμμάτων
 ^^^^^^^^^^^^^^^^^^^^^
 
+[source,java]
+public class Hello {
+    public static void main(Srting[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+
 Μπορούμε να γράψουμε προγράμματα σε Java εύκολα με τον αγαπημένο μας
 editor όπως π.χ. το gedit ή geany ή vim.
 
@@ -28,17 +50,18 @@ editor όπως π.χ. το gedit ή geany ή vim.
 μεταγλωττίσουμε και να τρέξουμε τα προγραμματά μας. Η διαδικασία είναι
 η εξής:
 
-[source,bash]
-javac myprogram.java #Μεταγλώττιση του κώδικα myprogram.java
-java myprogram       #Εκτέλεση του κώδικα myprogram.class
-
-Προφανώς οι παραπάνω εντολές εξαρτώνται από τη δομή του κωδικά σας.
+[source,shell]
+$ javac Hello.java # Μεταγλώττιση του κώδικα Hello.java σε bytecode
+                   # και παραγωγή αρχείου Hello.class
+$ java Hello       # Εκτέλεση του κώδικα byte Hello.class
+> Hello, world!
 
 Περιβάλλοντα Εργασίας - IDE
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Για αυτούς που θέλουν να χρησιμοποιήσουν κάποιο IDE υπάρχουν αρκετά
-αξιόλογα για τη Java. Εμείς θα σας προτείνουμε το http://netbeans.org/[NetBeans].
+αξιόλογα για τη Java. Τα δύο πιο ευρέως γνωστά είναι το
+http://netbeans.org/[NetBeans] και το http://www.eclipse.org/[Eclipse].
 
 Το NetBeans περιέχει πάρα πολλά εργαλεία ενσωματωμένα που στοχεύουν να
 διευκολύνουν το προγραμματιστή και να αυξήσουν την αποδοτικότητά του.
@@ -49,6 +72,5 @@ java myprogram       #Εκτέλεση του κώδικα myprogram.class
 Το NetBeans διατίθεται υπό http://netbeans.org/about/legal/license.html[CDDL
 και GPLv2 with Classpath Exception].
 
-Μία άλλη εναλλακτική επιλογή είναι το http://www.eclipse.org/[Eclipse] που
-διατίθεται υπό την http://www.eclipse.org/legal/epl-v10.html[Eclipse Public License - v 1.0].
-
+Μία άλλη εναλλακτική επιλογή είναι το Eclipse που διατίθεται υπό την
+http://www.eclipse.org/legal/epl-v10.html[Eclipse Public License].
