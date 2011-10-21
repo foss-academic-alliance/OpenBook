@@ -14,13 +14,13 @@ include::Intro-About.asciidoc[]
 
 Ελεύθερο Λογισμικό και Linux
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-include::Intro-freeSoftwareAndLinux.asciidoc[]
+include::Intro-FreeSoftwareAndLinux.asciidoc[]
 
 // Nicer internal linking
 [id="Κοινότητες"]
 Κοινότητες
 ----------
-include::Intro-communities.asciidoc[]
+include::Intro-Communities.asciidoc[]
 
 Μέρος Α - Γενική χρήση linux
 -----------------------------
@@ -61,12 +61,12 @@ About C
 [[Pascal]]
 Pacal
 ~~~~~
-include::PartB-pascal.asciidoc[]
+include::PartB-Pascal.asciidoc[]
 
 [[Java]]
 Java
 ~~~~
-include::PartB-java.asciidoc[]
+include::PartB-Java.asciidoc[]
 
 BlueJ
 ~~~~~
