@@ -55,8 +55,7 @@ bla
 [[C]]
 C
 ~~
-
-About C
+include::PartB-C.asciidoc[]
 
 [[Pascal]]
 Pacal

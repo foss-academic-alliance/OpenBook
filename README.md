@@ -21,9 +21,9 @@ OpenBook
  * Μαθηματικά εργαλεία (Octave, Scilab, ??)
  * Compiling από source (gcc etc)
 
-Μέρος Β
+[DONE] Μέρος Β
 -------
- * C (παραπομπή στο Μέρος Α ~ gcc gdb etc)
+ * [DONE] C (παραπομπή στο Μέρος Α ~ gcc gdb etc)
  * [DONE] Pascal
  * [DONE] Java
 
