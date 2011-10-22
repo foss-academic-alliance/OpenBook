@@ -26,10 +26,16 @@ Pascal Compiler] ή αλλιώς gpc. Η γενική χρήση του gpc εί
 [source,shell]
 $ gpc [options] file
 
+[source,pascal]
+program HelloWorld(output);
+begin
+    writeln('Hello, World!')
+end
+
 Έστω ότι έχουμε δημιουργήσει το αρχείο με κώδικα Pascal που έχει όνομα hello.pas
 . Για να το μεταγλωττίσουμε εκτελούμε:
 
-[source,bash]
+[source,shell]
 $ gpc hello.pas
 
 Η παραπάνω εντολή, αν δεν υπάρχουν λάθη στον κώδικα του hello.pas, θα
@@ -40,8 +46,10 @@ $ gpc hello.pas
 μεταγλώτιση, όπως προειδοποιήσεις (warnings). Οπότε, μία πιο σωστή χρήση του gpc
 στο παράδειγμά μας θα ήταν:
 
-[source,bash]
+[source,shell]
 $ gpc -Wall -o hello hello.pas
+$ ./hello
+> Hello, World!
 
 Αποσφαλμάτωση (debugging)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -50,13 +58,13 @@ $ gpc -Wall -o hello hello.pas
 τον gdb. Για να τον χρησιμοποιήσουμε, η μεταγλώτιση του προγράμματός μας θα
 πρέπει να γίνει με τη χρήση του διακόπτη -g, δηλαδή:
 
-[source,bash]
+[source,shell]
 $ gpc -g -Wall -o hello hello.pas
 
 Στη συνέχεια, εκτελούμε τον gdb δίνοντας ως όρισμα το εκτελέσιμο που
 δημιουργήσαμε με την παραπάνω εντολή:
 
-[source,bash]
+[source,shell]
 $ gdb hello
 
 Η χρήση του gdb ξεφεύγει από το σκοπό του παρόντος κειμένου, καθώς αποτελεί
