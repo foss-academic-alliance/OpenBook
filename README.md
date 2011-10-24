@@ -15,15 +15,15 @@ OpenBook
 -------
  * [DONE] Γενική χρήση linux
  * [DONE] Διανομές
- * Σουίτα γραφείου (LibreOffice)
- * Editors (vim, nano, gedit, kedit, kate)
- * Browsing (Mozilla Firefox, Chromium)
- * Μαθηματικά εργαλεία (Octave, Scilab, ??)
+ * [DONE] Σουίτα γραφείου (LibreOffice etc)
+ * [DONE] Editors (vim, nano, gedit, kate etc)
+ * [DONE] Browsing (Mozilla Firefox, Chromium etc)
+ * Μαθηματικά εργαλεία (Octave, Scilab etc)
  * Compiling από source (gcc etc)
 
 [DONE] Μέρος Β
 -------
- * [DONE] C (παραπομπή στο Μέρος Α ~ gcc gdb etc)
+ * [DONE] C
  * [DONE] Pascal
  * [DONE] Java
 
