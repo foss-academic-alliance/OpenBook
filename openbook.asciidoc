@@ -31,11 +31,11 @@ include::PartA-Distributions.asciidoc[]
 
 Σουΐτα γραφείου
 ~~~~~~~~~~~~~~~
-bla
+include::PartA-OfficeSuites.asciidoc[]
 
 Editors
 ~~~~~~~
-blabla
+include::PartA-Editors.asciidoc[]
 
 Browsing
 ~~~~~~~~
