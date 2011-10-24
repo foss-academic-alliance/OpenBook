@@ -39,7 +39,7 @@ include::PartA-Editors.asciidoc[]
 
 Browsing
 ~~~~~~~~
-bla
+include::PartA-Browsing.asciidoc[]
 
 Μαθηματικά Εργαλεία
 ~~~~~~~~~~~~~~~~~~~
@@ -58,7 +58,7 @@ C
 include::PartB-C.asciidoc[]
 
 [[Pascal]]
-Pacal
+Pascal
 ~~~~~
 include::PartB-Pascal.asciidoc[]
 
