@@ -56,15 +56,15 @@ C
 ~~
 include::PartB-C.asciidoc[]
 
-[[Pascal]]
-Pascal
-~~~~~
-include::PartB-Pascal.asciidoc[]
-
 [[Java]]
 Java
 ~~~~
 include::PartB-Java.asciidoc[]
+
+[[Pascal]]
+Pascal
+~~~~~
+include::PartB-Pascal.asciidoc[]
 
 Μαθήματα τμήματος Πληροφορικής Ο.Π.Α.
 -------------------------------------
