@@ -56,6 +56,11 @@ C
 ~~
 include::PartB-C.asciidoc[]
 
+[[HTML]]
+HTML
+~~~~
+include::PartB-HTML.asciidoc[]
+
 [[Java]]
 Java
 ~~~~
