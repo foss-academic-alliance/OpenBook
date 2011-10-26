@@ -2,40 +2,45 @@ OpenBook
 ========
 
 [DONE] Εισαγωγή
---------
+---------------
  * [DONE] Project OpenBook
  * [DONE] Free Software
  * [DONE] Linux
 
 [DONE] Κοινότητες
-----------
+-----------------
  * [DONE] Παρουσίαση των ακαδημαϊκών μας κοινοτήτων και πληροφορίες επικοινωνίας
 
-Μέρος Α
--------
- * [DONE] Γενική χρήση linux
+[DONE] Μέρος Α - Γενική χρήση linux
+-----------------------------------
  * [DONE] Διανομές
  * [DONE] Σουίτα γραφείου (LibreOffice etc)
  * [DONE] Editors (vim, nano, gedit, kate etc)
  * [DONE] Browsing (Mozilla Firefox, Chromium etc)
- * Μαθηματικά εργαλεία (Octave, Scilab etc)
+
+Μέρος Β - Εξειδικευμένα Εργαλεία
+--------------------------------
+ * [DONE] Μαθηματικά εργαλεία - Scilab
+ * Μαθηματικά εργαλεία - Octave
  * Compiling από source (gcc etc)
 
-[DONE] Μέρος Β
--------
+[DONE] Μέρος Γ - Γλώσσες Προγραμματισμού
+----------------------------------------
+ * [DONE] HTML
  * [DONE] C
- * [DONE] Pascal
  * [DONE] Java
+ * [DONE] Pascal
 
-### [FUTURE] Ένα βήμα παραπέρα....
+Mέρος Δ - Index μαθημάτων
+-------------------------
+Λίστα μαθημάτων σχολών ανά εξάμηνο με τα σχετιζόμενα κεφάλαια παραπάνω.
+
+ * [DONE] http://foss.aueb.gr/pipermail/faa/2010-October/000045.html[AUEB]
+ * http://foss.aueb.gr/pipermail/faa/2010-October/000046.html[ΣΕΜΦΕ|ΣΗΜΜΥ]
+ * http://foss.aueb.gr/pipermail/faa/2010-November/000051.html[UOA]
+
+[FUTURE] Ένα βήμα παραπέρα..
+----------------------------
  * Χρήση [D]VCS
  * και πολλά άλλα
-
-Index μαθημάτων
----------------
- * Λίστα μαθημάτων σχολών ανά εξάμηνο με τα σχετιζόμενα κεφάλαια του Μέρους Β.
- * [NOTE]: στη mailing list υπάρχουν οι λίστες με τα μαθήματα, αλλά όχι η αντιστοιχία ακόμα
-   - [AUEB]: http://foss.aueb.gr/pipermail/faa/2010-October/000045.html
-   - [ΣΕΜΦΕ|ΣΗΜΜΥ]: http://foss.aueb.gr/pipermail/faa/2010-October/000046.html
-   - [UOA]: http://foss.aueb.gr/pipermail/faa/2010-November/000051.html
 
