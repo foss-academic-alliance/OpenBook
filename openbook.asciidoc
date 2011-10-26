@@ -1,8 +1,11 @@
 OpenBook
 ========
-Κοινότητες ΕΛ/ΛΑΚ ΕΜΠ,ΕΚΠΑ,ΟΠΑ
-version 1,2010-2011
+:Author:    Κοινότητες ΕΛ/ΛΑΚ: ΟΠΑ, ΕΜΠ, ΕΚΠΑ
+:Email:     faa@foss.aueb.gr
+:Date:      26-10-2011
+:Revision:  Version 1
 :toc:
+
 
 Εισαγωγή
 --------
@@ -15,11 +18,11 @@ include::Intro-About.asciidoc[]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::Intro-FreeSoftwareAndLinux.asciidoc[]
 
-// Nicer internal linking
-[id="Κοινότητες"]
+
 Κοινότητες
 ----------
 include::Intro-Communities.asciidoc[]
+
 
 Μέρος Α - Γενική Χρήση linux
 -----------------------------
@@ -40,28 +43,32 @@ Browsing
 ~~~~~~~~
 include::PartA-Browsing.asciidoc[]
 
-Μαθηματικά Εργαλεία
-~~~~~~~~~~~~~~~~~~~
-bla
-
-Compiling από Source
-~~~~~~~~~~~~~~~~~~~~
-bla
 
 Μέρος Β - Εξειδικευμένες Εφαρμογές
 ----------------------------------
 
 [[Scilab]]
-Scilab
-~~~~~~
+Μαθηματικά Εργαλεία - Scilab
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartB-Scilab.asciidoc[]
+
+[[Octave]]
+Μαθηματικά Εργαλεία - Octave
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TODO
+
+[[Source]]
+Compiling από Source
+~~~~~~~~~~~~~~~~~~~~
+TODO
+
 
 Μέρος Γ - Γλώσσες Προγραμματισμού
 ---------------------------------
 
 [[C]]
 C
-~~
+~~~
 include::PartC-C.asciidoc[]
 
 [[HTML]]
@@ -79,14 +86,19 @@ Pascal
 ~~~~~
 include::PartC-Pascal.asciidoc[]
 
-Μαθήματα τμήματος Πληροφορικής Ο.Π.Α.
--------------------------------------
 
-include::Lessons-AUEB.asciidoc[]
+Μέρος Δ - Συσχέτιση Μαθημάτων
+------------------------------
 
-Μαθήματα2
----------
+Τμήμα Πληροφορικής Ο.Π.Α.
+~~~~~~~~~~~~~~~~~~~~~~~~~
+include::PartD-Lessons-AUEB.asciidoc[]
 
-blabla
+Ε.Μ.Π.
 ~~~~~~
-<<Java>> , <<Pascal>>
+TODO
+
+Ε.Κ.Π.Α.
+~~~~~~~~
+TODO
+
