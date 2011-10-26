@@ -21,7 +21,7 @@ include::Intro-FreeSoftwareAndLinux.asciidoc[]
 ----------
 include::Intro-Communities.asciidoc[]
 
-Μέρος Α - Γενική χρήση linux
+Μέρος Α - Γενική Χρήση linux
 -----------------------------
 
 Διανομές
@@ -48,7 +48,15 @@ Compiling από Source
 ~~~~~~~~~~~~~~~~~~~~
 bla
 
-Μέρος Β
+Μέρος Β - Εξειδικευμένες Εφαρμογές
+----------------------------------
+
+[[Scilab]]
+Scilab
+~~~~~~
+include::PartB-Scilab.asciidoc[]
+
+Μέρος Γ
 -------
 
 [[C]]
