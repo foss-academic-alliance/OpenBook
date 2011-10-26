@@ -56,28 +56,28 @@ Scilab
 ~~~~~~
 include::PartB-Scilab.asciidoc[]
 
-Μέρος Γ
--------
+Μέρος Γ - Γλώσσες Προγραμματισμού
+---------------------------------
 
 [[C]]
 C
 ~~
-include::PartB-C.asciidoc[]
+include::PartC-C.asciidoc[]
 
 [[HTML]]
 HTML
 ~~~~
-include::PartB-HTML.asciidoc[]
+include::PartC-HTML.asciidoc[]
 
 [[Java]]
 Java
 ~~~~
-include::PartB-Java.asciidoc[]
+include::PartC-Java.asciidoc[]
 
 [[Pascal]]
 Pascal
 ~~~~~
-include::PartB-Pascal.asciidoc[]
+include::PartC-Pascal.asciidoc[]
 
 Μαθήματα τμήματος Πληροφορικής Ο.Π.Α.
 -------------------------------------
