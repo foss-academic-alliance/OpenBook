@@ -76,6 +76,11 @@ HTML
 ~~~~
 include::PartC-HTML.asciidoc[]
 
+[[MIPS32]]
+MIPS32 ASSEMBLY
+~~~~~~~~~~~~~~~
+include::PartC-MIPS32.asciidoc[]
+
 [[Java]]
 Java
 ~~~~
