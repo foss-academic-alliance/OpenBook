@@ -25,6 +25,7 @@ MIPS32 σε μια διανομή Linux είναι τα παρακάτω:
 vim, nano, gedit, κλπ. Για κονσόλα επίσης κάνει οποιαδήποτε, πχ gnome-terminal,
 kterm, xterm, κλπ.
 
+[[SPIM]]
 SPIM
 ^^^^
 
