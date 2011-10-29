@@ -71,6 +71,11 @@ C
 ~~~
 include::PartC-C.asciidoc[]
 
+[[CSH]]
+C Shell
+~~~~~~~
+include::PartC-CSH.asciidoc[]
+
 [[HTML]]
 HTML
 ~~~~
