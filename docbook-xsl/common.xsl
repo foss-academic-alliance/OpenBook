@@ -8,8 +8,7 @@
 
 <!-- http://raz.cx/blog/2006/03/customising-docbook-xsl-output_22.html -->
 <xsl:template name="user.header.content">
-	<link rel="icon" href="images/icons/favicon.ico" type="image/x-icon" />
-	<link rel="shortcut icon" href="images/icoms/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="images/icons/favicon.ico" type="image/x-icon" />
 </xsl:template>
 
 <xsl:param name="htmlhelp.chm" select="'htmlhelp.chm'"/>
