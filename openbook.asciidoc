@@ -50,7 +50,7 @@ include::PartA-Browsing.asciidoc[]
 [[Mysql]]
 Βάσεις Δεδομένων - MySQL
 ~~~~~~~~~~~~~~~~~~~~~~~~
-TODO
+include::PartB-Mysql.asciidoc[]
 
 [[Scilab]]
 Μαθηματικά Εργαλεία - Scilab
