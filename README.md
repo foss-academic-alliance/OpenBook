@@ -20,16 +20,22 @@ OpenBook
 
 Μέρος Β - Εξειδικευμένα Εργαλεία
 --------------------------------
+ * MySQL
  * [DONE] Μαθηματικά εργαλεία - Scilab
  * Μαθηματικά εργαλεία - Octave
  * Compiling από source (gcc etc)
 
 [DONE] Μέρος Γ - Γλώσσες Προγραμματισμού
 ----------------------------------------
- * [DONE] HTML
  * [DONE] C
+ * C++
+ * [DONE] C Shell
+ * Fortran
+ * [DONE] HTML
+ * [DONE] MIPS32 ASSEMBLY
  * [DONE] Java
  * [DONE] Pascal
+ * PHP
 
 Mέρος Δ - Index μαθημάτων
 -------------------------
