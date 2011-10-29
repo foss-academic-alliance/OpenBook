@@ -47,6 +47,11 @@ include::PartA-Browsing.asciidoc[]
 Μέρος Β - Εξειδικευμένες Εφαρμογές
 ----------------------------------
 
+[Mysql]]
+Βάσεις Δεδομένων - MySQL
+~~~~~~~~~~~~~~~~~~~~~~~~
+TODO
+
 [[Scilab]]
 Μαθηματικά Εργαλεία - Scilab
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -71,10 +76,20 @@ C
 ~~~
 include::PartC-C.asciidoc[]
 
+[[Cpp]]
+C++
+~~~
+TODO
+
 [[CSH]]
 C Shell
 ~~~~~~~
 include::PartC-CSH.asciidoc[]
+
+[[Fortran]]
+Fortran
+~~~~~~~
+TODO
 
 [[HTML]]
 HTML
@@ -96,6 +111,10 @@ Pascal
 ~~~~~
 include::PartC-Pascal.asciidoc[]
 
+[[PHP]]
+PHP
+~~~
+TODO
 
 Μέρος Δ - Συσχέτιση Μαθημάτων
 ------------------------------
