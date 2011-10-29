@@ -114,7 +114,7 @@ include::PartC-Pascal.asciidoc[]
 [[PHP]]
 PHP
 ~~~
-TODO
+include::PartC-PHP.asciidoc[]
 
 Μέρος Δ - Συσχέτιση Μαθημάτων
 ------------------------------
