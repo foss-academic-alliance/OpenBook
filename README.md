@@ -20,7 +20,7 @@ OpenBook
 
 Μέρος Β - Εξειδικευμένα Εργαλεία
 --------------------------------
- * MySQL
+ * [DONE] MySQL
  * [DONE] Μαθηματικά εργαλεία - Scilab
  * Μαθηματικά εργαλεία - Octave
  * Compiling από source (gcc etc)
@@ -35,7 +35,7 @@ OpenBook
  * [DONE] MIPS32 ASSEMBLY
  * [DONE] Java
  * [DONE] Pascal
- * PHP
+ * [DONE] PHP
 
 Mέρος Δ - Index μαθημάτων
 -------------------------
@@ -49,4 +49,5 @@ Mέρος Δ - Index μαθημάτων
 ----------------------------
  * Χρήση [D]VCS
  * και πολλά άλλα
+
 
