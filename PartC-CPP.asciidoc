@@ -25,7 +25,7 @@ Linux είναι τα παρακάτω:
 vim, nano, gedit, κλπ. Για κονσόλα επίσης κάνει οποιαδήποτε, πχ gnome-terminal,
 kterm, xterm, κλπ.
 
-εταγλώτιση και Εκτέλεση (compilers and execution)
+Μεταγλώτιση και Εκτέλεση (compilers and execution)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Για τη μετάφραση και μεταγλώττιση του κώδικά μας θα χρειαστούμε κάποιον
@@ -61,7 +61,7 @@ $ ./hello                   # εκτέλεση του αρχείου
 αξιόλογα για τη C++. Μερικά γνωστά είναι το http://www.codeblocks.org/[Code::Blocks],
 το http://www.codelite.org/[Codelite] και το http://www.bloodshed.net/dev/[Bloodshed Dev-C + +].
 
-[[Dev-c++]]
+[[Dev-cpp]]
 Bloodshed Dev-C++
 +++++++++++++++++
 
