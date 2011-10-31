@@ -79,7 +79,7 @@ include::PartC-C.asciidoc[]
 [[Cpp]]
 C++
 ~~~
-TODO
+include::PartC-CPP.asciidoc[]
 
 [[CSH]]
 C Shell
