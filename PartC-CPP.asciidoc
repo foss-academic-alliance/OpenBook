@@ -59,7 +59,7 @@ $ ./hello                   # εκτέλεση του αρχείου
 
 Για αυτούς που θέλουν να χρησιμοποιήσουν κάποιο IDE υπάρχουν αρκετά
 αξιόλογα για τη C++. Μερικά γνωστά είναι το http://www.codeblocks.org/[Code::Blocks],
-το http://www.codelite.org/[Codelite] και το http://www.bloodshed.net/dev/[Bloodshed Dev-C++].
+το http://www.codelite.org/[Codelite] και το http://www.bloodshed.net/dev/[Bloodshed Dev-C + +].
 
 [[Dev-c++]]
 Bloodshed Dev-C++
