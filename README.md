@@ -29,7 +29,7 @@ OpenBook
 ---------------------------------
  * [DONE] C
  * [DONE] C++
- ** IDE's
+   - IDE's
  * [DONE] C Shell
  * Fortran
  * [DONE] HTML
