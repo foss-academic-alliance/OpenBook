@@ -89,7 +89,7 @@ include::PartC-Csh.asciidoc[]
 [[Fortran]]
 Fortran
 ~~~~~~~
-TODO
+include::PartC-Fortran.asciidoc[]
 
 [[HTML]]
 HTML
@@ -130,4 +130,3 @@ TODO
 Ε.Κ.Π.Α.
 ~~~~~~~~
 TODO
-
