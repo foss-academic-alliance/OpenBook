@@ -1,0 +1,7 @@
+Το https://github.com/cyberpython/Lia[Lia] είναι ένας απλός προσομοιωτής 
+υπολογιστή (όπως αυτός ορίζεται στο
+βιβλίο "Computer Science - A Modern Introduction", δεύτερη έκδοση των
+Les Goldschlager και Andrew Lister, Prentice Hall) και συντάκτης γλώσσας
+μηχανής γραμμένος σε Java.
+
+Το Lia διατίθεται υπό την άδεια MIT.

@@ -2,7 +2,7 @@ OpenBook
 ========
 :Author:    Κοινότητες ΕΛ/ΛΑΚ: ΟΠΑ, ΕΜΠ, ΕΚΠΑ
 :Email:     faa@foss.aueb.gr
-:Date:      26-10-2011
+:Date:      06-01-2012
 :Revision:  Version 1
 :toc:
 
@@ -46,6 +46,11 @@ include::PartA-Browsing.asciidoc[]
 
 Μέρος Β - Εξειδικευμένες Εφαρμογές
 ----------------------------------
+
+[[Lia]]
+Γλώσσα Μηχανής (Assembly) - Lia
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include::PartB-Lia.asciidoc[]
 
 [[Mysql]]
 Βάσεις Δεδομένων - MySQL
