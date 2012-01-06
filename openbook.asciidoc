@@ -116,6 +116,11 @@ PHP
 ~~~
 include::PartC-PHP.asciidoc[]
 
+[[VHDL]]
+VHDL
+~~~
+include::PartC-VHDL.asciidoc[]
+
 Μέρος Δ - Συσχέτιση Μαθημάτων
 ------------------------------
 
