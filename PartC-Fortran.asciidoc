@@ -23,11 +23,11 @@ Linux είναι τα παρακάτω:
 vim, nano, gedit, κλπ. Για κονσόλα επίσης κάνει οποιαδήποτε, πχ gnome-terminal,
 kterm, xterm, κλπ.
 
-Mεταγλώτιση και Εκτέλεση (compilers and execution)
+Mεταγλώττιση και Εκτέλεση (compilers and execution)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Για τη μετάφραση και μεταγλώττιση του κώδικά μας θα χρειαστούμε κάποιον
-compiler. Θα χρησιμοπιήσουμε το http://gcc.gnu.org/wiki/GFortran[GFortran] (μέρος
+compiler. Θα χρησιμοποιήσουμε το http://gcc.gnu.org/wiki/GFortran[GFortran] (μέρος
 του http://www.gnu.org/[GNU project]).
 
 Συγγραφή Προγραμμάτων
